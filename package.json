@@ -1,0 +1,12 @@
+{
+  "name": "project-ghibli",
+  "version": "1.0.0",
+  "main": "download-all-ghibli.js",
+  "license": "MIT",
+  "scripts": {
+    "download": "node download-all-ghibli.js"
+  },
+  "dependencies": {
+    "image-downloader": "^4.0.1"
+  }
+}
