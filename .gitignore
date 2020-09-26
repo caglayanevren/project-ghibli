@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+ghibli/**/*.jpg
+yarn.lock
+
+!**/.gitkeep
